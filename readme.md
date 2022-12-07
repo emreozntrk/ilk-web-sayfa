@@ -21,7 +21,6 @@
         </em>    
         <br>
             Bir anlıkta olsa Dünya benim için daha güzel bir yer haline geliyor.
-            
     </p>
 </div>
 
