@@ -20,11 +20,12 @@
             </strong> 
             
             <br>
-            <em> 
+            <em>
                 İnsanın her gün sevdiği şeyi yapmak için çaba sarf edip yorulması çok güzel bir duygu.
-                <br>
+            </em>    
+            <br>
                 Bir anlıkta olsa Dünya benim için daha güzel bir yer haline geliyor.
-            </em> 
+            
         </p>
 </div>
 
