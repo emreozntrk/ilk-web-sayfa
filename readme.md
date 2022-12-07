@@ -1,7 +1,3 @@
-
-
-
-
 <img src="https://patika-prod.s3-eu-central-1.amazonaws.com/userFiles/emreoztrk/profilePicture" alt="PrfiL Resim" border="3" align="right" title="EmreÖztürk"  >
 
 <!-- BAŞLIK -->
