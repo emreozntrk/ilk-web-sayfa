@@ -10,23 +10,23 @@
 <div>
     <h2>Hakkımda</h2>
     <hr>
-        <p>
-            Marmara üniversitesi İlahiyat Fakültesi mezunuyum. Hayalini kurduğum mesleğin peşinden koşuyorum. Artık yazılımda gelişmek için çok vaktim var. Her gün kalkıp kendim için bir şeyler yapmaya çalıyorum. Hergün yazılımda biraz daha ilerliyorum.
-            Önemli olan her gün hedefine ulaşmak için yola koyulmaktır.
-            <br> 
+    <p>
+        Marmara üniversitesi İlahiyat Fakültesi mezunuyum. Hayalini kurduğum mesleğin peşinden koşuyorum. Artık yazılımda gelişmek için çok vaktim var. Her gün kalkıp kendim için bir şeyler yapmaya çalıyorum. Hergün yazılımda biraz daha ilerliyorum.
+        Önemli olan her gün hedefine ulaşmak için yola koyulmaktır.
+        <br> 
             <!-- ALINTI SÖZ     -->
-            <strong> 
-                Ne kadar yavaş gittiğinizin hiçbir önemi yoktur. Siz, hiç durmadan yola devam ettikçe.
-            </strong> 
+        <strong> 
+            Ne kadar yavaş gittiğinizin hiçbir önemi yoktur. Siz, hiç durmadan yola devam ettikçe.
+        </strong> 
             <!-- AÇIKLAMA -->
-            <br>
-            <em>
-                İnsanın her gün sevdiği şeyi yapmak için çaba sarf edip yorulması çok güzel bir duygu.
-            </em>    
-            <br>
-                Bir anlıkta olsa Dünya benim için daha güzel bir yer haline geliyor.
+        <br>
+        <em>
+            İnsanın her gün sevdiği şeyi yapmak için çaba sarf edip yorulması çok güzel bir duygu.
+        </em>    
+        <br>
+            Bir anlıkta olsa Dünya benim için daha güzel bir yer haline geliyor.
             
-        </p>
+    </p>
 </div>
 
 
