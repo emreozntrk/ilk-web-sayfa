@@ -18,7 +18,7 @@
             <strong> 
                 Ne kadar yavaş gittiğinizin hiçbir önemi yoktur. Siz, hiç durmadan yola devam ettikçe.
             </strong> 
-            
+            <!-- AÇIKLAMA -->
             <br>
             <em>
                 İnsanın her gün sevdiği şeyi yapmak için çaba sarf edip yorulması çok güzel bir duygu.
