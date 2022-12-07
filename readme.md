@@ -19,18 +19,6 @@
                 Ne kadar yavaş gittiğinizin hiçbir önemi yoktur. Siz, hiç durmadan yola devam ettikçe.
             </strong> 
             
-            <!-- Twitter Ve GitHub link -->
-            <a href="https://twitter.com/emreoznturk" target="_blank">
-                <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/220px-Twitter-logo.svg.png" alt="Twitterİkon"
-                    title="Twitter Hesabına Git" align="right" >
-            </a>
-            
-            
-            <a href="https://github.com/emreoznturk" target="_blank">
-                <img width="25" height="25" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" align="right" title="GitHub Hesabına Git" alt="GitHubİkon">
-            </a>    
-
-
             <br>
             <em> 
                 İnsanın her gün sevdiği şeyi yapmak için çaba sarf edip yorulması çok güzel bir duygu.
